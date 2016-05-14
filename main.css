@@ -5,7 +5,9 @@
 
 .lucy{
 
-	background-image: url("./pics/FullSizeRender.jpg");
+	/*background-image: url("/pics/FullSizeRender.jpg");*/
+	/*background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi-vfOkhdrMAhXi1IMKHe53AlQQjRwIBw&url=http%3A%2F%2Fwww.mistypineskennel.com%2Favailable-puppies%2F&psig=AFQjCNH_YmQvBz1VYPbQV5B8XJH7U8xsHA&ust=1463331633976157");*/
+	/*background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjpsYH6itrMAhUM2GMKHcrfDPsQjRwIBw&url=http%3A%2F%2Fbuzzsharer.com%2F2015%2F06%2F12-reasons-why-you-should-never-own-goldendoodles%2F&psig=AFQjCNH_YmQvBz1VYPbQV5B8XJH7U8xsHA&ust=1463331633976157");*/
 	height: 500px;
 	width:300px;
 	background-size: cover;
