@@ -1,19 +1,26 @@
 {
-  "name": "doodles",
+  "name": "josh",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "doodles",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "node": "^0.0.0",
+    "nodemon": "^1.9.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshcheshire/doodles.git"
+  },
+  "author": "josh cheshire",
   "license": "ISC",
-  "dependencies": {
-    "angular-filter": "^0.5.7",
-    "bcryptjs": "^2.3.0",
-    "body-parser": "^1.14.1",
-    "express": "^4.13.3",
-    "express-session": "^1.12.1",
-   
-  }
+  "bugs": {
+    "url": "https://github.com/joshcheshire/doodles/issues"
+  },
+  "homepage": "https://github.com/joshcheshire/doodles#readme"
 }

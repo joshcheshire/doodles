@@ -1,0 +1,15 @@
+.title{
+
+	text-align: center
+}
+
+.lucy{
+
+	background-image: url("../josh/pics/FullSizeRender.jpg");
+	height: 500px;
+	width:300px;
+	background-size: cover;
+	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
+}
